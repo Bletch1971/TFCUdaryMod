@@ -1,0 +1,21 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.28",
+            "modVersion":"0.2.31",
+            "changeLog": [
+                "(Change) Added enable flag for reinforced tucker bag in config file.",
+				"(Change) Added enable flag for Hot Spring water evaporation in config file.",
+				"(Change) Added stickConversion value in config file.",
+				"(Change) Drying mat is now stackable.",
+				"(New) Added new ceramic bucket. Can pickup Fresh, Salt and Hot Spring water.",
+				"(New) Added ceramic bucket knapping recipe.",
+				"(New) Added Fertiliser evaporation recipe that uses Hot Spring water."
+            ],
+            "updateURL":"http://tfcudarymod.azurewebsites.net/tfc_0.79.28/[1.7.10]TFCUdaryMod-0.2.31.jar",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.31.jar"
+        }
+    ]
+}

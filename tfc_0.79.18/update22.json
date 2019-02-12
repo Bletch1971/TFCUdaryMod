@@ -1,0 +1,22 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "modVersion":"0.2.22",
+            "changeLog": [
+                "(BugFix) Tucker Bag - Fixed a server crash bug when right-clicking with a tucker bag in hand.",
+                "(BugFix) Alloy Calculator - Fixed sync issue on server. Would show a result alloy when not all the ingredients were added to the alloy calculator.",
+                "(BugFix) Sulfuric Acid recipe added when Limonite mod enabled as well as Galena mod. Used in the construction of the battery with both mods need.",
+                "(BugFix) Crucible WAILA - added null check for alloy.",
+                "(New) Added new WAILA information for the Pottery block (pit kiln and created block when placing pottery on the ground).",
+                "(New) Added new WAILA information for the Forge. Shows if the smoke stack is valid or not.",
+                "(New) Added new WAILA information for the Blast Furnace. Shows the number of valid levels (0-5).",
+                "(New) Added new WAILA information for the Grill and Firepit. Shows the contents, quantity and decay."
+            ],
+            "updateURL":"https://db.tt/VRjlE2ms",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.22.jar"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.15",
+            "modVersion":"0.2.5",
+            "changeLog": [
+                "(Change) Removed two of the three draw actions from the anvil plan for copper wire. Now you only need to finished with a draw action."
+            ],
+            "updateURL":"https://db.tt/fJ0hceLj",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.5.jar"
+        }
+    ]
+}

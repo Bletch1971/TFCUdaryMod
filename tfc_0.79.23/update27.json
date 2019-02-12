@@ -1,0 +1,15 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.23",
+            "modVersion":"0.2.27",
+            "changeLog": [
+                "(Changes) Updated TFC version to 0.79.23. Note: This version is not compatible with TFC 0.79.22 or earlier."
+            ],
+            "updateURL":"https://db.tt/5cupr2PD",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.27.jar"
+        }
+    ]
+}

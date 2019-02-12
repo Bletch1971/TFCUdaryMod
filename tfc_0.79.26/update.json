@@ -1,0 +1,15 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.26",
+            "modVersion":"0.2.30",
+            "changeLog": [
+                "(BugFix) Fixed the bug that prevented the Ore Cooker from cooking Limonite Ore."
+            ],
+            "updateURL":"https://db.tt/H8My8x0T",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.30.jar"
+        }
+    ]
+}

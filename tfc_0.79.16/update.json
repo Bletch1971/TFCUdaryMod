@@ -1,0 +1,15 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.16",
+            "modVersion":"0.2.14",
+            "changeLog": [
+                "(BugFix) Fixed an anvil recipe loading bug. If the player exited a world then opened a new one, my anvil plans were not there."
+            ],
+            "updateURL":"https://db.tt/l8aV0F3L",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.14.jar"
+        }
+    ]
+}

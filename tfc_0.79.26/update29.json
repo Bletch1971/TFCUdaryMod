@@ -1,0 +1,16 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.26",
+            "modVersion":"0.2.29",
+            "changeLog": [
+                "(Changes) Updated TFC version to 0.79.26. Note: This version is not compatible with TFC 0.79.25 or earlier.",
+				"(BugFix) Milk Jug & Milk Bottle, fixed bug caused by changes with the food interface in TFC 79.26."
+            ],
+            "updateURL":"https://db.tt/Km2Bw4Te",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.29.jar"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.23",
+            "modVersion":"0.2.28",
+            "changeLog": [
+                "(BugFix) Fixed a loading bug when a knapping recipe was being added."
+            ],
+            "updateURL":"https://db.tt/b3CL6aao",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.28.jar"
+        }
+    ]
+}

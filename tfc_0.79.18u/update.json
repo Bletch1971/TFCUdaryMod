@@ -1,0 +1,17 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "modVersion":"0.2.24",
+            "changeLog": [
+                "(BugFix) Anodising Vessel - Fixed the Nickel extraction recipes, they were using Cooked Limonite ore and not the powder.",
+                "(Changes) Gui Screens - Cleaned up the Gui screens to be more consistent with the liquid name, recipe result and processing text.",
+                "(Changes) WAILA Tooltips - Cleaned up a few of the WAILA tooltips and added a few additional haskey checks."
+            ],
+            "updateURL":"https://db.tt/6ebjK5CC",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.24.jar"
+        }
+    ]
+}

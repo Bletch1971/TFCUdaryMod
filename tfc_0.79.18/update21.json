@@ -1,0 +1,15 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "modVersion":"0.2.21",
+            "changeLog": [
+                "(New) Drying Mat - new drying mat that allows the player to dry fruits."
+            ],
+            "updateURL":"https://db.tt/lgkQb8FB",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.21.jar"
+        }
+    ]
+}

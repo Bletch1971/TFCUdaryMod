@@ -1,0 +1,19 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.22",
+            "modVersion":"0.2.26",
+            "changeLog": [
+                "(Changes) Updated TFC version to 0.79.22. Note: This version is not compatible with TFC 0.79.21 or earlier.",
+                "(Changes) Tucker Bag - have added the Bear, Deer, Pheasant and Wolf. Config options to turn them on/off, default is off.",
+                "(Changes) Drying Mat - have added vegetables to the drying mat.",
+                "(BugFix) Tucker Bag - have added an extra check to prevent players from picking up other players.",
+                "(BugFix) Alloy Calculator - have fixed the bug that caused items in the calculator to disappear."
+            ],
+            "updateURL":"https://db.tt/9xHzo8uD",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.26.jar"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.29",
+            "modVersion":"0.2.32",
+            "changeLog": [
+                "(Change) Tucker bag WAILA information moved to Udary Device settings.",
+				"(Change) Tucker bag damage setting now always visible."
+            ],
+            "updateURL":"http://tfcudarymod.azurewebsites.net/tfc_0.79.29/[1.7.10]TFCUdaryMod-0.2.32.jar",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.32.jar"
+        }
+    ]
+}

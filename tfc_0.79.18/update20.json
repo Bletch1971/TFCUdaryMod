@@ -1,0 +1,19 @@
+{
+    "versionList": [
+        {
+            "mcVersion":"Minecraft 1.7.10",
+            "tfcVersion":"0.79.18",
+            "modVersion":"0.2.20",
+            "changeLog": [
+                "(Change) Tucker Bag - config options added to turn on/off the animals allowed to be captured.",
+                "(Change) Tucker Bag - renamed to standard tucker bag and only captures small animals.",
+                "(Change) Tucker Bag - new reinforced tucker bag that captures large and small animals.",
+                "(Change) Tucker Bag - adult and child animals inflict different damage to the tucker bags.",
+                "(Change) Tucker Bag - user guide updated."
+            ],
+            "updateURL":"https://db.tt/ORIRYCba",
+            "isDirectLink":"true",
+            "newFileName":"[1.7.10]TFCUdaryMod-0.2.20.jar"
+        }
+    ]
+}
